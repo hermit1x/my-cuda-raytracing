@@ -1,0 +1,5 @@
+*.ppm
+.vscode
+.DS_Store
+rt
+render.sh
